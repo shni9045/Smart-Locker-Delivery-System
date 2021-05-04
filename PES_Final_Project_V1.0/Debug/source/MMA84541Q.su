@@ -1,0 +1,5 @@
+core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+MMA84541Q.c:39:6:MMA8451Q_Init	8	static
+MMA84541Q.c:52:6:MMA8451Q_Interrupt_Config	8	static
+MMA84541Q.c:66:6:PORTA_IRQHandler	8	static

@@ -1,0 +1,2 @@
+Test_LFSR.c:14:6:Generate_Seeds	16	static
+Test_LFSR.c:23:6:Test_Randomness_LFSR	32	static
