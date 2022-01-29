@@ -1,5 +1,4 @@
-# Final_Project
-Code for Final Project for PES,ECEN 5813,Spring 2021
+
 
 ## General Info 
 Project contains implementation of "Smart Locker System".This system allows user to generate a random OTP of size 4-8 digits using Linear Feedback Shift Register Method(LFSR) algorithm.This OTP is shared with the delivery agent.Upon entering the correct OTP on keypad the door actuation & ultraviolet package sanitization is carried out.
